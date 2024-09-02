@@ -588,14 +588,14 @@ noscript {
 /* For tablets */
 @media (max-width: 768px) {
     .text-content {
-        height: 80vh;
+        height: 85vh;
     }
 }
 
 /* For mobile phones */
 @media (max-width: 480px) {
     .text-content {
-        height: 80vh;
+        height: 85vh;
     }
 }
 
