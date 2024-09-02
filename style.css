@@ -585,6 +585,20 @@ noscript {
     justify-content: center
 }
 
+/* For tablets */
+@media (max-width: 768px) {
+    .text-content {
+        height: 80vh;
+    }
+}
+
+/* For mobile phones */
+@media (max-width: 480px) {
+    .text-content {
+        height: 80vh;
+    }
+}
+
 #hello-friend {
     font-size: 3.5rem;
     font-weight: 600;
@@ -1948,6 +1962,20 @@ footer {
     .landing-page-container {
         height: 85vh
     }
+
+    /* For tablets */
+@media (max-width: 768px) {
+    .landing-page-container {
+        height: 70vh;
+    }
+}
+
+/* For mobile phones */
+@media (max-width: 480px) {
+    .landing-page-container {
+        height: 70vh;
+    }
+}
 
     .text-content {
         justify-content: flex-start
