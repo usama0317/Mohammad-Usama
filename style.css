@@ -955,6 +955,12 @@ noscript {
     padding-top: 200px
 }
 
+@media only screen and (max-width: 768px) {
+    .about-section-containery {
+        padding-top: 0px
+    }
+  }
+
 .about-section,
 .projects-section-div,
 .skills-section {
