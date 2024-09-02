@@ -1966,14 +1966,14 @@ footer {
     /* For tablets */
 @media (max-width: 768px) {
     .landing-page-container {
-        height: 70vh;
+        height: 75vh;
     }
 }
 
 /* For mobile phones */
 @media (max-width: 480px) {
     .landing-page-container {
-        height: 70vh;
+        height: 75vh;
     }
 }
 
