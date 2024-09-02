@@ -1824,6 +1824,12 @@ footer {
         font-size: 5.5rem
     }
 
+    @media only screen and (max-width: 600px) {
+        #name, #work {
+            font-size: 4.5rem;
+        }
+      }
+
     #info-para,
     .language-name {
         width: 100%
