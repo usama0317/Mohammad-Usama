@@ -966,21 +966,7 @@ noscript {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    padding-top: 200px
-}
-
-/* For tablets */
-@media (max-width: 768px) {
-    .about-section-container {
-        padding-top: 0;
-    }
-}
-
-/* For mobile phones */
-@media (max-width: 480px) {
-    .about-section-container {
-        padding-top: 0;
-    }
+    padding-top: 0px
 }
 
 .about-section,
